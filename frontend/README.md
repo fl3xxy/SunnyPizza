@@ -9,5 +9,6 @@ After basket button view:
 About page:
 ![image](https://github.com/user-attachments/assets/dd9ec510-1a9e-4db3-a961-790598aa2029)
 Contact page:
-![image](https://github.com/user-attachments/assets/f39ddb90-89da-44e2-90ac-f9b7ec0cc591)
+![image](https://github.com/user-attachments/assets/6918a7d7-315c-422a-a33f-ffdd7e05ab82)
+
 
